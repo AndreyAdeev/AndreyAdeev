@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi, I'm Andrey 👋
+I am just starting my programming journey.
 
 <!--
 **AndreyAdeev/AndreyAdeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
